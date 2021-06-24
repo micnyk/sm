@@ -1,0 +1,6 @@
+{
+    "sketch": "smnode\\smnode.ino",
+    "board": "arduino:avr:uno",
+    "programmer": "arduino:arduinoasisp",
+    "port": "COM3"
+}
